@@ -103,14 +103,6 @@ const en: RequiredLocaleType = {
       Title: "Font Size",
       SubTitle: "Adjust font size of chat content",
     },
-    Update: {
-      Version: (x: string) => `Version: ${x}`,
-      IsLatest: "Latest version",
-      CheckUpdate: "",
-      IsChecking: "",
-      FoundUpdate:
-      GoToUpdate: "",
-    },
     SendKey: "Send Key",
     Theme: "Theme",
     TightBorder: "Tight Border",
